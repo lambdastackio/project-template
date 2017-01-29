@@ -1,0 +1,17 @@
+[package]
+name = "<project_name>"
+version = "0.1.0"
+authors = ["Chris Jones <chris.jones@lambdastack.io>"]
+license = "Apache-2.0"
+readme = "README.md"
+keywords = ["", "", ""]
+repository = "https://github.com/lambdastackio/<project_name>"
+homepage = "https://github.com/lambdastackio/<project_name>"
+documentation = "https://lambdastackio.github.io/<project_name>/<project_name>"
+description = """
+<project description>
+"""
+
+[dependencies]
+rustc-serialize = "0"
+libc = "0"
